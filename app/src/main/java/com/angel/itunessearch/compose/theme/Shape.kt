@@ -1,4 +1,4 @@
-package com.angel.itunessearch.ui.theme
+package com.angel.itunessearch.compose.theme
 
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.Shapes

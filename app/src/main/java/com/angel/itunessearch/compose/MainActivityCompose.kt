@@ -1,4 +1,4 @@
-package com.angel.itunessearch
+package com.angel.itunessearch.compose
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -9,9 +9,9 @@ import androidx.compose.material.Surface
 import androidx.compose.material.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.tooling.preview.Preview
-import com.angel.itunessearch.ui.theme.ITunesSearchTheme
+import com.angel.itunessearch.compose.theme.ITunesSearchTheme
 
-class MainActivity : ComponentActivity() {
+class MainActivityCompose : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
 

@@ -1,4 +1,4 @@
-package com.angel.itunessearch
+package com.angel.itunessearch.compose
 
 import androidx.lifecycle.ViewModel
 
